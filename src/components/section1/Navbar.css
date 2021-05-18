@@ -1,0 +1,48 @@
+.timemator{
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.navRight{
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.nav-link{
+    color: #5E768F!important; 
+}
+
+.navbar{
+    font-size: 17px;
+    padding: 3% 6% 3% 4%!important;
+}
+
+.name{
+    font-size: 22px;
+    justify-content: center;
+    align-items: center;
+    font-weight:bold;
+    padding: 8%;
+    color: white;
+}
+
+.button1{
+    border-radius: 8px;
+    border-color: #0D9EA8;
+    border-style: solid;
+    padding-left:50%!important;
+    padding-right: 50%!important;
+    background-color: transparent;
+}
+
+.navbar-nav > li{
+    padding-left:30px; 
+}
+ 
