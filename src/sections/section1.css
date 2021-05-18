@@ -1,5 +1,9 @@
 .section1{
-    background-color: rgb(10,25,51)
+    background-color: rgb(10,25,51);
+    background-image: url(https://timemator.com/images/bg-diagonal-edges/bg-hero-bottom.svg);
+    background-repeat: no-repeat;
+    background-size:100% 20%;
+    background-position: center bottom;
 }
 
 .heading{
