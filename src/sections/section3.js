@@ -12,7 +12,10 @@ const section3 = () => {
                  <img src={img}/>
              </div>
              <div className="top col col-lg-11">
-                <h1 className="highlighted bold">Auto-tracking</h1>  
+                <h1 className="highlighted bold">Auto-tracking
+                <span className="badge-con">
+                    <div className="badge">MAC ONLY</div>
+                </span> </h1>  
                 <div className="head">
                 <h2>Let Timemator start</h2>
                 <h2>the timer for you</h2>

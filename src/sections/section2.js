@@ -12,7 +12,11 @@ const section2 = () => {
                  <img src={img}/>
              </div>
              <div className="col col-lg-11">
-                <h1 className="highlighted bold">Activity Timeline</h1>  
+                <h1 className="highlighted bold">Activity Timeline
+                <span className="badge-con">
+                    <div className="badge">MAC ONLY</div>
+                </span> 
+                </h1> 
                 <div className="head">
                 <h2>Always remember</h2>
                 <h2>where your time went</h2>
