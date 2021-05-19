@@ -7,9 +7,8 @@
     overflow: hidden;
 }
 
-.row{ 
-    margin-top: 10%;
-    margin-left:8.33%;
+.top{ 
+    margin-top: 8%; 
 }
 
 .bold{
@@ -17,25 +16,39 @@
     font-size: 36px; 
 }
 
-.col-lg-11 >h2{ 
+.head >h2{ 
     font-size: 68px;
-    font-weight:700; 
-    padding-right: 15%;
+    font-weight:700;  
     color:white;
-    margin-top: 3%;
 }
  
 .para{
-    display: inline-block;
-    width: 52%;
+    display: inline-block; 
     font-size: 20px;
     line-height: 31px;
     font-weight: 600;
     color: white;
-    margin-top: 10%;
+    margin-top: 14%;
+}
+
+.block{
+    display: inline-block; 
+    margin-left: 0;
+}
+
+.col-lg-6{ 
+    margin-right: 0%;
+}
+
+.sec2img {  
+    margin-top: 12%;
+    margin-left: -60%;
 }
 
 .margintop{
-    margin-top: 5%;
+    margin-top: 8%;
+}
+.head{
+    margin-top: 3%;
 }
  
