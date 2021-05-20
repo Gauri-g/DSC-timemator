@@ -2,6 +2,61 @@
     background-color: #0A1933;
     background-image: url(https://timemator.com/images/bg-diagonal-edges/bg-darker-bottom-inverted.svg);
     background-repeat: no-repeat;
-    background-size:100% 100%;
+    background-size:100% 10%;
     background-position: center top;
+    overflow: hidden;
+}
+
+.centerr{
+    margin-top: 10%; 
+    width:90%;
+}
+
+.focus{
+    font-size:30px;
+    font-weight: 700;
+    line-height: 35pt;
+    text-align: right; 
+}
+
+.focus2{
+    font-size:40px;
+    font-weight: 700; 
+    text-align: right; 
+}
+
+.flexend
+{
+    display: flex;
+    align-items: flex-end; 
+    padding-left: 10% !important;
+    padding-bottom: 1% !important;
+}
+ 
+.mtt{
+    margin-top: 10%;
+}
+
+.fitimg
+{
+   width:110%;
+}
+
+.conright
+{
+    color: white;
+    text-align: left;
+    padding-left:10%!important;
+    padding-right: 15% !important;
+}
+
+.icontext >h3 {
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.icontext >h6 {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25pt;
 }

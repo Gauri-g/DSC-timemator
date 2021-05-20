@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="42px" viewBox="0 0 34 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tasks-icon</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.058824 0 0 0 0 0.964706 0 0 0 0 0.964706 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <path d="M28.8571429,8 C31.6974644,8 34,10.3025356 34,13.1428571 L34,36.8571429 C34,39.6974644 31.6974644,42 28.8571429,42 L5.14285714,42 C2.30253557,42 2.12419591e-15,39.6974644 0,36.8571429 L0,13.1428571 C-3.47839072e-16,10.3025356 2.30253557,8 5.14285714,8 L28.8571429,8 Z M32,4 L32,6 L2,6 L2,4 L32,4 Z M14.9348588,18.2818785 L23.0651412,23.2181215 C24.686019,24.2022258 24.682914,25.7996594 23.0651412,26.7818785 L14.9348588,31.7181215 C13.313981,32.7022258 12,31.9613802 12,30.080246 L12,19.919754 C12,18.031076 13.317086,17.2996594 14.9348588,18.2818785 Z M30,0 L30,2 L4,2 L4,0 L30,0 Z" id="path-2"></path>
+    </defs>
+    <g id="PRODUCT-PAGE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product-page" transform="translate(-772.000000, -4948.000000)">
+            <g id="tasks-icon" transform="translate(770.000000, 4948.000000)" filter="url(#filter-1)">
+                <g transform="translate(2.000000, 0.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="tasks.tabbar" fill="#0A84FF" xlink:href="#path-2"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
