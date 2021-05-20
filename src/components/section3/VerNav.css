@@ -1,0 +1,61 @@
+ 
+.vernavbar > a>h1{
+    border-right: 4px solid #354E66;
+    color:#354E66;
+    text-align: right;
+    padding:3% 10% 3% 0% ; 
+    margin-bottom: 1%;
+    font-size: 30px;
+    white-space: nowrap;
+}
+
+.active > h1 {
+    border-right: 4px solid #0FF6F6 !important;
+    color:white !important;
+}
+
+.navtext{
+    font-size: 18px !important; 
+    line-height: 23pt;
+}
+
+.a:hover{
+    text-decoration: none;
+    text-decoration: underline transparent;
+}
+
+.col-4{
+    margin-left: 3%;
+}
+ 
+.content{
+    color:white;
+    padding-left: 5% !important;
+    padding-right: 5% !important;
+}
+
+.fw{
+    font-weight:600;
+    margin-top: -4%;
+}
+
+.fe{
+    text-align: right;
+    margin-top: 4%;
+}
+ 
+.iconlist{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.iconlist img {
+    width:auto;
+    height:auto;
+}
+
+.mt{
+    margin-top: 7%;
+    margin-bottom: 10%;
+}

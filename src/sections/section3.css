@@ -1,7 +1,21 @@
 .section3{   
     background-color: #081024;
-    background-image: url(https://timemator.com/images/bg-diagonal-edges/bg-hero-bottom.svg);
-    background-repeat: no-repeat;
-    background-size:100% 20%;
-    background-position: center bottom;
+}
+
+.head2{
+    color:white;
+    margin-top: 8%; 
+}
+
+.head2 >h2{
+    font-size: 50px ;
+    font-weight: 700 ;
+}
+
+.borderr{
+    margin-top: 5%;
+    margin-bottom: 2%;
+    width:6.5%; 
+    height:2%;
+    border-top:6px solid #0FF6F6;
 }
