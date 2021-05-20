@@ -67,9 +67,14 @@
 }
 
 .wedge{
-    z-index:100 !important;
-    width: 150%;
-    height:200px !important;
+    z-index:100 ;
+    width: 160%;
+    height:200px ;
     margin-top: -10%;
     position: absolute;
+    overflow: hidden;
+}
+
+.oh{
+    margin-left: -2%;
 }

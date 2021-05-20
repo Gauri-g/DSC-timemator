@@ -62,7 +62,7 @@ const section4 = () => {
             </div>
           </div>
         </div>
-        <div  >
+        <div className="col-12 oh" >
         <img className="wedge" src={wedge} />
         </div>
       </div>
