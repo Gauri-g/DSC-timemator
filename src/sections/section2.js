@@ -1,5 +1,6 @@
 import "./section2.css";
 import img from "../images/timeline-icon.svg";
+import dwdIcon from "../images/dwd-icon.svg";
 import secimg from "../images/sec2.png";
 
 const section2 = () => {
@@ -25,7 +26,7 @@ const section2 = () => {
                 <div className="col-lg-6">
                 <h3 className="para">Timemator automatically captures everything you do on your Mac. You can go back to review what you were working on and with just a few clicks, assign the time to your projects.</h3>
                 <div className="margintop"><button className=" btn2" href="#otherresources">
-                  See it in action
+                 <> See it in action <img className="icon" src={dwdIcon} /></>
                 </button>
                 </div>
                 </div>
