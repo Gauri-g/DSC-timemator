@@ -1,5 +1,6 @@
 import "./section4.css";
 import mainimg from "../images/sec4.jpg"; 
+import wedge from "../images/wedge.svg"; 
 import dwndIcon from "../images/dwnd-icon.svg";
 import timerIcon from "../images/timer-icon.svg";
 import tasksIcon from "../images/tasks-icon.svg";
@@ -44,7 +45,7 @@ const section4 = () => {
 
         <div className="row mtt">
           <div className="col-6">
-            <img className="fitimg" src={mainimg} />
+            <img className="fitimg zi" src={mainimg} />
           </div>
           <div className="col-6 conright"> 
             <div className="container icontext"> 
@@ -60,6 +61,9 @@ const section4 = () => {
               <h6>Organize your tracking time the way you want. Group by projects or clients, or both — it’s all up to you!</h6>
             </div>
           </div>
+        </div>
+        <div  >
+        <img className="wedge" src={wedge} />
         </div>
       </div>
     </>

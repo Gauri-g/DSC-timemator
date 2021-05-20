@@ -1,0 +1,19 @@
+.section5{   
+    background-color: #081024;
+    background-image: url(https://timemator.com/images/bg-diagonal-edges/bg-darker-bottom-inverted.svg);
+    background-repeat: no-repeat;
+    background-size:100% 10%;
+    background-position: center top;
+    overflow: hidden; 
+    margin-top: -2%;
+}
+
+.heads >h2{
+    font-size: 50px;
+    font-weight: 700;
+    color: white; 
+}
+
+.mt0{
+    margin-top: 2%;
+}
